@@ -1,6 +1,6 @@
 # wbh2023-prototype
 
-## Cat-being ダッシュボード
+## Cat-being Dashboard
 
 ![](./images/product_screenshot.png)
 
